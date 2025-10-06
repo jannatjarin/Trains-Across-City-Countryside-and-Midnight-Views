@@ -11,24 +11,30 @@ Press 2 → For scenario 2
 Press 3 → For scenario 3
 
 
-🏙️ For Scenario 1:
+🔀 For Scenario 1:
 
-Press B → Train moves, vehicles stop    
-Press G → Vehicles move, train stops   
-Click Mouse → Move the ship   
-Press C → To hear car sound effects 
-Press T → To hear train sound effects  
+Press B → Train moves, vehicles stop
+
+Press G → Vehicles move, train stops
+
+Click Mouse → Move the ship
+
+Press C → To hear car sound effects
+
+Press T → To hear train sound effects
+
 Click Left mouse key → To move the ship
 
 
 
-🌊 For Scenario 2:
+🔀 For Scenario 2:
 
-Press R → To make it rain    
+Press R → To make it rain
+
 Press S → For sunny weather
 
     
-🏠 For Scenario 3:
+🔀 For Scenario 3:
 
 Press N → Switch to night
 
