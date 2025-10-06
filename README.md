@@ -17,6 +17,8 @@ Press C → To hear car sound effects
 
 Press T → To hear train sound effects
 
+Click Left mouse key → To move the ship
+
 
 
 🌊 For Scenario 2:
