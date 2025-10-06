@@ -27,7 +27,8 @@ Press S → For sunny weather
 
     
 🏠 For Scenario 3:
-Press N → Switch to night  
+
+Press N → Switch to night
 Press D → Switch to day
 
 
