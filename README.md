@@ -17,8 +17,6 @@ Press B → Train moves, vehicles stop
 
 Press G → Vehicles move, train stops
 
-Click Mouse → Move the ship
-
 Press C → To hear car sound effects
 
 Press T → To hear train sound effects
