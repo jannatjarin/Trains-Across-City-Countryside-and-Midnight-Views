@@ -5,7 +5,9 @@ A train connects all three scenes: a city crossroad, a village with dynamic weat
 🔀 To Change Scenes:
 
 Press 1 → For scenario 1
+
 Press 2 → For scenario 2
+
 Press 3 → For scenario 3
 
 
@@ -29,6 +31,7 @@ Press S → For sunny weather
 🏠 For Scenario 3:
 
 Press N → Switch to night
+
 Press D → Switch to day
 
 
