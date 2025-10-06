@@ -7,29 +7,35 @@ Press 1, 2, or 3 → Instantly switch between different environments
 
 
 🏙️ For Scenario 1:
-Press B → Train moves, vehicles stop
-
-Press G → Vehicles move, train stops
-
-Click Mouse → Move the ship
-
-Press C → To hear car sound effects
-
-Press T → To hear train sound effects
-
-Click Left mouse key → To move the ship
+    Press B → Train moves, vehicles stop
+    
+    Press G → Vehicles move, train stops
+    
+    Click Mouse → Move the ship
+    
+    Press C → To hear car sound effects
+    
+    Press T → To hear train sound effects
+    
+    Click Left mouse key → To move the ship
 
 
 
 🌊 For Scenario 2:
-Press R → To make it rain
+    Press R → To make it rain
+    
+    Press S → For sunny weather
+    
+    🏠 For Scenario 3:
+    Press N → Switch to night
+    
+    Press D → Switch to day
 
-Press S → For sunny weather
 
-🏠 For Scenario 3:
-Press N → Switch to night
-
-Press D → Switch to day
+🏠 For Indoor Scene (Scenario 3):
+    Press N → Switch to night
+    
+    Press D → Switch to day
 
 
 
